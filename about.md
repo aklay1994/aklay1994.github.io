@@ -1,5 +1,5 @@
 <div class="about-header">
-  <img src="assets/profile.jpg" alt="Portrait of J Rosser" class="about-avatar" width="160" height="160" loading="lazy" />
+  <img src="assets/Profile.png" alt="Portrait of Anthony Lay" class="about-avatar" width="160" height="160" loading="lazy" />
   <div class="about-header-content">
     <h1 class="title">Hi I'm Anthony!</h1>
     <div class="about-socials" style="display:flex;gap:1.25rem;align-items:center;flex-wrap:wrap;margin-top:0.5rem;">
@@ -36,12 +36,4 @@
 
 
 
-I'm a 2nd year **BSc student in Mathematics/Artificial Intelligence at the University of Souhtern Queensland**, supervised by Jakob Foerster and focusing on AI Security, Safety, and Interpretability. I'm best known for my **NeurIPS 2025 Spotlight paper AgentBreeder**, which explores evolutionary automated red team and blue team scaffold generation.
-
-I'm currently working on **Infusion** as part of the **UK AISI Challenge Fund** - an influence function-guided model poisoning framework. I'm participating in **Neel Nanda's MATS 10.0 Exploration Phase** and recently served as a **Teaching Assistant for ARENA 7.0** (Mechanistic Interpretability week).
-
-Previously, I was a **Research Scientist Intern at Spotify** and worked with **UK AISI on agentic scaffolds for Inspect** as part of their Bounty Programme. I was also the founding Research Scientist at Convergence (acquired by Salesforce for est. $200M), contributing to Proxy, a state-of-the-art multimodal web agent with 100k+ users.
-
-I'm a member of LISA (London Initiative for Safe AI) and enjoy playing trumpet in a funk band, running bouldering socials, and helping new climbers get certified.
-
-P.S. There are some easter eggs on this website - find one and drop the emoji in your email subject line!
+I'm a 2nd year **BSc student in Mathematics/Artificial Intelligence at the University of Souhtern Queensland**.
