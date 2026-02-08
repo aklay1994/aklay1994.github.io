@@ -1,9 +1,10 @@
+<!--
+
 # Publications
 
 ## 2026
 
 
-<!--
 <div class="publication-card">
     <div class="publication-content">
         <h3 class="publication-title">
